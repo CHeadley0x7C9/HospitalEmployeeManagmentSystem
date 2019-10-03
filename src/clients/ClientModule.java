@@ -11,7 +11,7 @@ public class ClientModule {
 		
 		Employee newEmployee = new Employee(112333330,"Ciera Headley","IT Department",true);
 		
-		Employee badEmployee = new Employee(666666666,"John Anaya","IT Department",false);
+		Employee badEmployee = new Employee(666666666,"Micheal Blue","IT Department",false);
 		
 		//Employee 1
 		ClientModule.hireNewEmployee(newEmployee);
